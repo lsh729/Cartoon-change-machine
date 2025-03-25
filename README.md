@@ -1,5 +1,5 @@
 # Cartoon-change-machine
-My Image Cartoon Transducer using OpenCV
+My Image Cartoon Converter using OpenCV
 
 
 # 🖼️ Cartoon Image Converter using OpenCV
